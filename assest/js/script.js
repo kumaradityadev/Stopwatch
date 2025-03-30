@@ -44,11 +44,4 @@ function watchreset(){
     displattime.innerHTML = "00:00:00";
 
 }
-// function watchstop(){
-//     clearInterval(timer);
-// }
-// function watchreset(){
-//     clearInterval(timer);
-//     let [seconds, minutes, hours] = [ 0,0,0];
-//     displattime.innerHTML = "00:00:00";
-// }
+
